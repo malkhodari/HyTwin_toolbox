@@ -50,7 +50,7 @@ Version: 1.1 Release date: 2025-08-5
 ```
 
 ## For online installation
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=malkhodari/HyTwin_academic&file=HyTwin_academic.mlappinstall)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=malkhodari/HyTwin_toolbox&file=HyTwin_academic.mlappinstall)
 
 ```
 - Create a free MathWorks account or use an existing account (no license required)
