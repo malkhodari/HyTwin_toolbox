@@ -8,7 +8,10 @@
 
 Version: 1.1 Release date: 2025-08-5
 
-###### Contact: mohanad.alkhodari@rdm.ox.ac.uk, winok.lapidaire@cardiov.ox.ac.uk, turkay.kart@cardiov.ox.ac.uk, abhirup.banerjee@eng.ox.ac.uk, paul.leeson@cardiov.ox.ac.uk
+###### Contact: 
+✉️ mohanad.alkhodari@rdm.ox.ac.uk
+✉️ winok.lapidaire@cardiov.ox.ac.uk
+✉️ paul.leeson@cardiov.ox.ac.uk
 
 <img src="https://github.com/malkhodari/HyTwin_academic/assets/62998803/4ef672ac-0dcd-4178-bfe6-e68c0f46a601" width="80%" height="80%">
 
@@ -16,7 +19,7 @@ Version: 1.1 Release date: 2025-08-5
 
 <img src="https://github.com/user-attachments/assets/79c34273-944c-440c-b402-f2bafdee5847" width="80%" height="80%">
 
-## Details on HyperScore and HyperTrajectory modelling
+## 🔬 Details on HyperScore and HyperTrajectory modelling
 ```
 - Hypertension is a serious medical condition that affects over a billion people worldwide
 - The proper management of disease progression requires an extended knowledge on the functional/structural changes in the whole body in response to hypertension
@@ -30,7 +33,7 @@ Version: 1.1 Release date: 2025-08-5
 - It is based on a semi-supervised machine learning approach; the contrastive trajectory inference (cTI)
 ```
 
-## Usage instructions
+## 🛠️ Usage instructions
 ```
 - Input dataset should be arranged to match the data provided in this example (demographics.csv and multimodality.csv)
 - Once loading the demographics.csv file, the tool will arrange the multimodality.csv based on Patient IDs (row-wise)
@@ -49,7 +52,7 @@ Version: 1.1 Release date: 2025-08-5
 - Once done, the user can export all results (table and figures) as .csv and .png, respectively
 ```
 
-## For MATLAB online installation
+## ☁️ For MATLAB online installation
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=malkhodari/HyTwin_toolbox&file=HyTwin_academic.mlappinstall)
 
 ```
@@ -65,7 +68,7 @@ Version: 1.1 Release date: 2025-08-5
 - You can add the app to favourites for faster access by clicking on the star
 ```
 
-## For local MATLAB installation
+## 💻 For local MATLAB installation
 ```
 - Create a free MathWorks account or use an existing account (no license required)
 - Sign-in with your account at your local MATLAB
@@ -77,6 +80,6 @@ Version: 1.1 Release date: 2025-08-5
 - You can add the app to favourites for faster access by clicking on the star
 ```
 
-## Learn more about us
+## 🔗 Learn more about us
 https://www.rdm.ox.ac.uk/study-with-us/supervisor-profiles/leeson-group
 https://eng.ox.ac.uk/multimedia/multimedia-people/
