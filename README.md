@@ -12,9 +12,9 @@ Version: 1.1 Release date: 2025-08-5
 
 <img src="https://github.com/malkhodari/HyTwin_academic/assets/62998803/4ef672ac-0dcd-4178-bfe6-e68c0f46a601" width="80%" height="80%">
 
-<img src="https://github.com/malkhodari/HyTwin_academic/assets/62998803/e0370adb-f55e-416e-bf8f-9d5e19e2647c" width="80%" height="80%">
+<img src="https://github.com/user-attachments/assets/2024a9b5-eb8e-42b8-a7fe-0c0410e3c7d1" width="80%" height="80%">
 
-<img src="https://github.com/malkhodari/HyTwin_academic/assets/62998803/0a13f680-4ef1-4366-bb87-f3c65f14bb09" width="80%" height="80%">
+<img src="https://github.com/user-attachments/assets/79c34273-944c-440c-b402-f2bafdee5847" width="80%" height="80%">
 
 ## Details on HyperScore and HyperTrajectory modelling
 ```
