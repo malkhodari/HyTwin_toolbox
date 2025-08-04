@@ -1,17 +1,18 @@
-### HyTwin -- New subclinical hypertensive multi-organ disease phenotypes identified from large-scale multi-national multi-modal datasets through contrastive machine learning 
+### 🤖 HyTwin -- New subclinical hypertensive multi-organ disease phenotypes identified from large-scale multi-national multi-modal datasets through contrastive machine learning 
 
 #### Mohanad Alkhodari, Winok Lapidaire, Turkay Kart, Abhirup Banerjee, Paul Leeson
-##### Cardiovascular Clinical Research Facility (CCRF), Division of Cardiovascular Medicine, University of Oxford, United Kingdom
-##### Institute of Biomedical Engineering (IBME), Department of Engineering Science, University of Oxford, United Kingdom
+###### Cardiovascular Clinical Research Facility (CCRF), Division of Cardiovascular Medicine, University of Oxford, United Kingdom
+###### Institute of Biomedical Engineering (IBME), Department of Engineering Science, University of Oxford, United Kingdom
 
-###### Publication: Submitted to Nature Medicine (Status update soon)
+##### Publication: Submitted to Nature Medicine (Status update soon)
 
-Version: 1.1 Release date: 2025-08-5
+##### Version: 1.1
+##### Release date: 2025-08-5
 
-###### Contact: 
-✉️ mohanad.alkhodari@rdm.ox.ac.uk
-✉️ winok.lapidaire@cardiov.ox.ac.uk
-✉️ paul.leeson@cardiov.ox.ac.uk
+#### ✉️ Contact: 
+mohanad.alkhodari@rdm.ox.ac.uk
+winok.lapidaire@cardiov.ox.ac.uk
+paul.leeson@cardiov.ox.ac.uk
 
 <img src="https://github.com/malkhodari/HyTwin_academic/assets/62998803/4ef672ac-0dcd-4178-bfe6-e68c0f46a601" width="80%" height="80%">
 
