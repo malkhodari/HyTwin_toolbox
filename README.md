@@ -4,7 +4,7 @@
 ##### Cardiovascular Clinical Research Facility (CCRF), Division of Cardiovascular Medicine, University of Oxford, United Kingdom
 ##### Institute of Biomedical Engineering (IBME), Department of Engineering Science, University of Oxford, United Kingdom
 
-###### Publication: Soon!
+###### Publication: Submitted to Nature Medicine (Status update soon)
 
 Version: 1.1 Release date: 2025-08-5
 
@@ -49,7 +49,7 @@ Version: 1.1 Release date: 2025-08-5
 - Once done, the user can export all results (table and figures) as .csv and .png, respectively
 ```
 
-## For online installation
+## For MATLAB online installation
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=malkhodari/HyTwin_toolbox&file=HyTwin_academic.mlappinstall)
 
 ```
@@ -60,6 +60,18 @@ Version: 1.1 Release date: 2025-08-5
 - The app will automatically download and ask you to install
 - Once installed, click on the "Apps" tab on the top toolbar
 - Click once on "HyTwin_academic" to open the online app
+- Drag-drop patient files (in .csv) to the current path then hit browse
+- You can manually adjust screen size based on your screen resolution (zoom out)
+- You can add the app to favourites for faster access by clicking on the star
+```
+
+## For local MATLAB installation
+```
+- Create a free MathWorks account or use an existing account (no license required)
+- Sign-in with your account at your local MATLAB
+- Double-click or simply open Hytwin_academic.mlappinstall to install the toolbox
+- Once installed, click on the "Apps" tab on the top toolbar
+- Click once on "HyTwin_academic" to open the app
 - Drag-drop patient files (in .csv) to the current path then hit browse
 - You can manually adjust screen size based on your screen resolution (zoom out)
 - You can add the app to favourites for faster access by clicking on the star
