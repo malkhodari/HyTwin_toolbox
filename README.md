@@ -4,10 +4,10 @@
 ###### Cardiovascular Clinical Research Facility (CCRF), Division of Cardiovascular Medicine, University of Oxford, United Kingdom
 ###### Institute of Biomedical Engineering (IBME), Department of Engineering Science, University of Oxford, United Kingdom
 
-##### Publication: Submitted to Nature Medicine (Status update soon)
+##### Publication: Submitted (Status update soon)
 
 ##### Version: 1.1
-##### Release date: 2025-08-5
+##### Release date: 2025-09
 
 #### ✉️ Contact: 
 mohanad.alkhodari@rdm.ox.ac.uk
