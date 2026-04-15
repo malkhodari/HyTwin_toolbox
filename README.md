@@ -1,4 +1,4 @@
-### HyTwin -- New subclinical hypertensive multi-organ disease phenotypes identified from large-scale multi-national multi-modal datasets through contrastive machine learning 
+### HyTwin -- Contrastive machine learning to quantify hypertensive multiorgan damage and identify new disease phenotypes: a multi-national multi-modal study 
 
 #### Mohanad Alkhodari, Winok Lapidaire, Turkay Kart, Abhirup Banerjee, Paul Leeson
 ###### Cardiovascular Clinical Research Facility (CCRF), Division of Cardiovascular Medicine, University of Oxford, United Kingdom
@@ -14,11 +14,7 @@ mohanad.alkhodari@rdm.ox.ac.uk
 winok.lapidaire@cardiov.ox.ac.uk
 paul.leeson@cardiov.ox.ac.uk
 
-<img src="https://github.com/malkhodari/HyTwin_academic/assets/62998803/4ef672ac-0dcd-4178-bfe6-e68c0f46a601" width="80%" height="80%">
-
-<img src="https://github.com/user-attachments/assets/2024a9b5-eb8e-42b8-a7fe-0c0410e3c7d1" width="80%" height="80%">
-
-<img src="https://github.com/user-attachments/assets/79c34273-944c-440c-b402-f2bafdee5847" width="80%" height="80%">
+<img src="https://github.com/user-attachments/assets/e33d80ce-99cb-4546-84d0-ad63c2007e9f" width="80%" height="80%">
 
 ## 🔬 Details on HyperScore and HyperTrajectory modelling
 ```
