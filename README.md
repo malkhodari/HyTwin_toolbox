@@ -15,6 +15,8 @@ winok.lapidaire@cardiov.ox.ac.uk
 paul.leeson@cardiov.ox.ac.uk
 
 <img src="https://github.com/user-attachments/assets/e33d80ce-99cb-4546-84d0-ad63c2007e9f" width="80%" height="80%">
+<img src="https://github.com/user-attachments/assets/f73d3719-c270-4424-99a6-4f6d53b589c1" width="80%" height="80%">
+
 
 ## 🔬 Details on HyperScore and HyperTrajectory modelling
 ```
