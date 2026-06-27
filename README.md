@@ -4,7 +4,7 @@
 ###### Cardiovascular Clinical Research Facility (CCRF), Division of Cardiovascular Medicine, University of Oxford, United Kingdom
 ###### Institute of Biomedical Engineering (IBME), Department of Engineering Science, University of Oxford, United Kingdom
 
-##### Publication: Submitted (Status update soon)
+##### Publication: Alkhodari, M., Lapidaire, W., Kart, T., Xiong, Z., Krasner, S., Fletcher, A., ... & Leeson, P. (2026). Contrastive Machine Learning to Quantify Hypertensive Multiorgan Damage and Identify New Disease Phenotypes: A Multinational Multimodal Study. Circulation. https://doi.org/10.1161/CIRCULATIONAHA.125.07739
 
 ##### Version: 1.1
 ##### Release date: 2025-09
