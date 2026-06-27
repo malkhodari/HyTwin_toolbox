@@ -7,15 +7,15 @@
 ##### Publication: Alkhodari, M., Lapidaire, W., Kart, T., Xiong, Z., Krasner, S., Fletcher, A., ... & Leeson, P. (2026). Contrastive Machine Learning to Quantify Hypertensive Multiorgan Damage and Identify New Disease Phenotypes: A Multinational Multimodal Study. Circulation. https://doi.org/10.1161/CIRCULATIONAHA.125.07739
 
 ##### Version: 1.1
-##### Release date: 2025-09
+##### Release date: 2025-08
 
 #### ✉️ Contact: 
 mohanad.alkhodari@rdm.ox.ac.uk
 winok.lapidaire@cardiov.ox.ac.uk
 paul.leeson@cardiov.ox.ac.uk
 
-<img src="https://github.com/user-attachments/assets/e33d80ce-99cb-4546-84d0-ad63c2007e9f" width="80%" height="80%">
-<img src="https://github.com/user-attachments/assets/0d609959-8733-4c3f-a505-0d968b1852c9" width="80%" height="80%">
+<img src="https://github.com/user-attachments/assets/23854c35-a40d-4aa7-9f46-4dcab2dfe8a5" width="80%" height="80%">
+<img src="https://github.com/user-attachments/assets/64e52092-95ad-442e-bcb0-7640891dfe47" width="80%" height="80%">
 
 ## 🔬 Details on HyperScore and HyperTrajectory modelling
 ```
